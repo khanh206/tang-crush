@@ -15,4 +15,5 @@ const CONFIG = {
     mess: 'tớ biết mà 🥰. Yêu Linh nhiều nhiều 😘😘',
     messDesc: 'lúc nào rảnh nhớ chơi PUBG với tớ nha id: KhánhCủaAi�.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/q.khanh.206.
+    messLink : 'https://m.me/q.khanh.206.
+  
