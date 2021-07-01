@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'tớ Yêu cậu nhiều lắm :3',
     mess: 'tớ biết mà 🥰. Yêu Linh nhiều nhiều 😘😘',
     messDesc: 'lúc nào rảnh nhớ chơi PUBG với tớ nha id: KhánhCủaAi�.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun <33',
     messLink : 'https://m.me/q.khanh.206.
   
